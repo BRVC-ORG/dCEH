@@ -1,4 +1,4 @@
-# dCEH (decentralized Chains Ethical Hacking) Certificate
+#decentralized Chains Ethical Hacking (Certificate)
 decentralized Chains Ethical Hacking (dCEH)
 
 New kind of cross-blockchain CEH-type certification
