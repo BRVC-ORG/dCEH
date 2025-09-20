@@ -1,7 +1,11 @@
-#decentralized Chains Ethical Hacking (Certificate)
+# decentralized Chains Ethical Hacking (Certificate)
 
-dCEH Credential
+- dCEH Credential
 
-New kind of cross-blockchain CEH-type certification
+- New kind of cross-blockchain CEH-type certification
 
-CEH-type (dCEH, dCCENT/dCCNA) cert, but for "Multi Decentralized Architecture Recursive Pentesting and Operating Environment(s) Management (Hyperscaling and SRE esque)"
+- CEH-type (dCEH, dCCENT/dCCNA) cert, but for "Multi Decentralized Architecture Recursive Pentesting and Operating Environment(s) Management (Hyperscaling and SRE esque)"
+
+- Early dCEH exam/VM topic/simulation
+
+    - https://github.com/BRVC-ORG/zerochain
